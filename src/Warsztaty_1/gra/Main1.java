@@ -1,8 +1,6 @@
-package Warsztaty_1;
+package Warsztaty_1.gra;
 
 import java.util.Scanner;
-
-import static java.lang.Math.random;
 
 public class Main1 {
     public static void main(String[] args) {
